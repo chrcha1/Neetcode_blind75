@@ -6,4 +6,3 @@ class Solution:
                 return True
             nums_set.add(num)
         return False
-
