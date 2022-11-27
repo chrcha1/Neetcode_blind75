@@ -1,4 +1,5 @@
 class Solution:
+    # neetcode did this one differently but I think my solution works well since it is same space and time complexity
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         product = 1
         num_zeros = 0
